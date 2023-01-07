@@ -12,6 +12,9 @@
     flutter clean
     
     flutter pub get 
+    
+    
+    app.meedu.google_maps
 A new Flutter project.
 
 ## Getting Started
