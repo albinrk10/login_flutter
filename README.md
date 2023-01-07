@@ -13,6 +13,8 @@
     
     flutter pub get 
     
+    //https://blog.logrocket.com/google-maps-flutter/
+    
     
     app.meedu.google_maps
 A new Flutter project.
